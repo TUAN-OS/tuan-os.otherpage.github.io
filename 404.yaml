@@ -1,3 +1,15 @@
 ---------
 permalink: /404
+action: refresh
+client:
+  - Host: C2921-39821-9921-901_404client.cdn-reg.tuan-os.clnt
+  - Key: {CD9321-4921-2384}
+  - Message: /404
+  - Message-source: https://tuan-os.github.io/tuan-os.otherpage.io/404
+  - Server:
+    - Server-name: Tuan-os 404 server
+    - Server-key: FN93813-392991-382
+    - Server-IP: Secret
+  - Action: http-equiv="refresh" content="0;https://tuan-os.github.io/tuan-os.otherpage.io"
+system: redirect
 ---------
