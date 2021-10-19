@@ -1,0 +1,15 @@
+-------
+permalink: /Main
+config:
+  - server: https://tuan-os.github.io/tuan-os.otherpage.github.io
+  - key:
+    - Key1: 3MD30281-29391-4942-29
+    - Key2: N3821-38281
+  - QR-code: nothing
+  - 404: /tuan-os.otherpage.github.io/404.yaml
+  - image: /tuan-os.otherpage.github.io/img
+  - port: 2811
+  - cookies: noset
+  - server: http://secret.html.tuanminh/k/8322J-9391-3911
+  - srv2: Ip="181.838.1.9"
+-------
